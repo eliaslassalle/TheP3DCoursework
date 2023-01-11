@@ -15,6 +15,8 @@ public class GameController : MonoBehaviour
     private void Start()
     {
         moveSun(sunPos1);
+
+        //test
     }
 
     public void MakeDay()
