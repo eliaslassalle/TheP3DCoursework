@@ -14,7 +14,6 @@ public class GameController : MonoBehaviour
 
     private void Start()
     {
-
         moveSun(sunPos1);
     }
 
